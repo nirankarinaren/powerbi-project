@@ -58,9 +58,13 @@ Hospital-Insights-Dashboard/
 
 ## 📸 Dashboard Preview
 
-*(Add screenshots of your dashboard here)*
+<img width="1444" height="810" alt="Screenshot 2026-05-13 160828" src="https://github.com/user-attachments/assets/d8cbb1bb-89c5-4749-806f-2f395bd191d3" />
+
 
 ---
+## 📸 Table Preview
+<img width="1340" height="803" alt="Screenshot 2026-05-13 160854" src="https://github.com/user-attachments/assets/7b3d1095-075f-4267-a216-73dfe0995eb2" />
+
 
 ## 🚀 How to Use
 
