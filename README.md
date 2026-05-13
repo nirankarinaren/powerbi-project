@@ -30,8 +30,8 @@ This project presents an **interactive Power BI dashboard** designed to analyze 
 ```
 Hospital-Insights-Dashboard/
 │
-├── Hospital_Report.pbix      # Power BI report file
-├── data.xlsx                # Dataset used for analysis
+├── Hospital Data Report.pbix      # Power BI report file
+├── Hospital.xlsx                # Dataset used for analysis
 ├── README.md                # Project documentation
 ```
 
