@@ -34,7 +34,6 @@ Hospital-Insights-Dashboard/
 ├── Hospital.xlsx                # Dataset used for analysis
 ├── README.md                # Project documentation
 ```
-![Dashboard Screenshot](Screenshot 2026-05-13 160828.png)
 ---
 
 ## 🛠️ Tools & Technologies
